@@ -1,6 +1,6 @@
 # 🫧🍏
 
-My portfolio for Break Through Tech AI MIT
+My portfolio for my Machine Learning Foundations Course with Break Through Tech AI
 
 ## 🌲 Featured ML Project 
 [Government Confidence and Corruption Perception ML Model](https://github.com/maggieyung/ecornell-portfolio/blob/main/DefineAndSolveMLProblem.ipynb)
